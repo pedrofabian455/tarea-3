@@ -6,7 +6,7 @@
     <title>Formulario</title>
   </head>
   <body>
-    <form method="post" action="alumno.jsp">
+    <form method="post" action="datoscontacto.jsp">
         <h1> Formulario de Contacto </h1>
       <label>Nombre:</label>
       <input type="text"  name="nombre"><br><br>
